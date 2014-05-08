@@ -7,3 +7,4 @@ Usage: sync_rename.sh ext1 ext2
 
 * Filenames of ext2 are renamed.
 * Orders must match between two extensions.
+* Works only with bash.
